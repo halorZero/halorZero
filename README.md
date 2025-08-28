@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=halorZero&theme=github-compact)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=halorZero&theme=github-light)
 
 <!--
 **halorZero/halorZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
