@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=halorZero)
-
-<script src="https://cdn.jsdelivr.net/gh/mubaidr/js-for-github-profile@latest/app.js"></script>
-
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=halorZero&theme=github-compact)
 
 <!--
 **halorZero/halorZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
